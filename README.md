@@ -2,9 +2,15 @@
 
 ### I will be using this repo to show my projects I have made for stats220! 💞✨⭐️
 
-➔ **I will be adding:**
+➔ **There is:**
 
-* two different types of bullet points (ordered or unordered)
-* links to other websites
+* A funny meme 
+* An animated GIF
 
-... later~
+Follow my [instagram](https://www.instagram.com/yiny.wu/) for more!
+
+<img width="224" alt="Screen Shot 2023-03-06 at 3 37 29 PM" src="https://user-images.githubusercontent.com/100813884/223006794-5aa94268-7307-4335-998c-4550def5888b.png">
+
+
+
+
